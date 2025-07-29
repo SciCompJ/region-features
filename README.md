@@ -1,4 +1,4 @@
-# Region Features plug in for Imago
+# Region Features plugin for Imago
 
 Plugin for the Imago software that allows to compute several features for image regions stored as label map (or label images).
 
