@@ -14,13 +14,13 @@ import imago.gui.image.ImageFrame;
 import imago.gui.table.TableFrame;
 import net.sci.algo.ConsoleAlgoListener;
 import net.sci.image.Image;
-import net.sci.image.regionfeatures.Feature;
-import net.sci.image.regionfeatures.RegionFeatures;
-import net.sci.image.regionfeatures.RegionFeatures.UnitDisplay;
-import net.sci.image.regionfeatures.morpho2d.Area;
-import net.sci.image.regionfeatures.morpho2d.Circularity;
-import net.sci.image.regionfeatures.morpho2d.EulerNumber;
-import net.sci.image.regionfeatures.morpho2d.Perimeter;
+import net.sci.image.regfeat.Feature;
+import net.sci.image.regfeat.RegionFeatures;
+import net.sci.image.regfeat.RegionFeatures.UnitDisplay;
+import net.sci.image.regfeat.morpho2d.Area;
+import net.sci.image.regfeat.morpho2d.Circularity;
+import net.sci.image.regfeat.morpho2d.EulerNumber;
+import net.sci.image.regfeat.morpho2d.Perimeter;
 import net.sci.table.Table;
 
 
