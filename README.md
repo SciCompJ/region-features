@@ -6,7 +6,7 @@ Plugin for the Imago software that allows to compute several features for image 
 
 Installation:
 * download the latgest release
-* copy the jar file of the plugin int othe "polugins" direcgtoryu of the Imago software
+* copy the jar file of the plugin into the "plugins" directory of the Imago software
 * restart Imago. There should be a plugin in the `Plugins > Region Features` menu entry.
 
 Usage:
